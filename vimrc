@@ -14,3 +14,5 @@ set hlsearch
 set wrap
 
 colorscheme desert
+
+command -nargs=? Sudow :w! !sudo tee %
