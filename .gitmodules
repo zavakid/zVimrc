@@ -7,9 +7,6 @@
 [submodule "bundle/nerdtree-toggle"]
 	path = bundle/nerdtree-toggle
 	url = git://github.com/jistr/vim-nerdtree-tabs.git
-[submodule "bundle/ctrlp"]
-	path = bundle/ctrlp
-	url = git://github.com/kien/ctrlp.vim.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git://github.com/hallison/vim-markdown.git

@@ -16,3 +16,7 @@ set wrap
 colorscheme desert
 
 command -nargs=? Sudow :w! !sudo tee %
+
+" 底部显示状态
+set laststatus=2
+set statusline=%F:\ %l
