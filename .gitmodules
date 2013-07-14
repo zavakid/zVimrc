@@ -10,3 +10,6 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git://github.com/hallison/vim-markdown.git
+[submodule "bundle/vimclojure"]
+	path = bundle/vimclojure
+	url = git@github.com:vim-scripts/VimClojure.git
