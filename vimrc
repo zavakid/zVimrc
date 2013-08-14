@@ -13,6 +13,7 @@ set tabstop=2
 set shiftwidth=2
 set hlsearch
 set wrap
+set pastetoggle=<F2>
 
 colorscheme desert
 
